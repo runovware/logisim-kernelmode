@@ -1,3 +1,14 @@
+This fork has been prepared for my pleasure. You will probably want to use the main repo instead! All downloads here are for that version, anyway.
+
+My goals for this fork:
+- have fun
+- modify individual components to suit my needs and tastes
+- implement custom directories for the circuit list
+- implement a tunnel component to the computer running the circuit in order to live most dangerously
+- [distant future] write the simulator engine in rust for more speed
+
+FYI no vibe coding is being used for this project, and I don't intend to change that policy.
+
 [![Logisim-evolution](docs/img/logisim-evolution-logo.png)](https://github.com/logisim-evolution/logisim-evolution)
 
 ---
